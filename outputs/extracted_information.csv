@@ -1,0 +1,149 @@
+ID,Authors,Title
+4,"['Robert Sablatnig', 'Marco Peer', 'Florian Kleber']",SAGHOG: Self-Supervised Autoencoder for Generating HOG Features for Writer Retrieval
+7,"['Silvia Cascianelli', 'Vittorio Pippi', 'Rita Cucchiara', 'Fabio Quattrini']",Binarizing Documents by Leveraging both Space and Frequency
+13,"['Christopher Kermorvant', 'Solène Tarride']",Revisiting N-Gram Models: Their Impact in Modern Neural Networks for Handwritten Text Recognition
+16,"['Askar Hamdulla', 'Mayire Ibrayim', 'Jianjun Kang', 'Chunhu Zhang', 'Mengmeng Chen']",A Real-Time Scene Uyghur Text Detection Network Based on Feature Complementation
+18,"['Carlos Francisco Moreno - García', 'Laura Jamieson', 'Eyad Elyan']",A Multiclass Imbalanced Dataset Classification of Symbols from Piping and Instrumentation Diagrams
+19,"['Hai Luu Tuan', 'Jeff Yang', 'Huynh Vu The']",Light-Weight Multi-Modality Feature Fusion Network for Visually-Rich Document Understanding
+20,"['Yoann Schneider', 'Bastien Abadie', 'Mélodie Boillet', 'Christopher Kermorvant', 'Marie Generali - Lince', 'Solène Tarride']",Improving Automatic Text Recognition with Language Models in the PyLaia Open-Source Library
+22,"['Ryota Nakao', 'DongHyun Kim', 'Youngmin Baek', 'Moon Bin Yim', 'Yamato Okamoto', 'Bado Lee', 'Geewook Kim', 'Seunghyun Park']",CREPE: Coordinate-Aware End-to-End Document Parser
+25,"['Tahira Shehzadi', 'Didier Stricker', 'Muhammad Zeshan Afzal']",A Hybrid Approach for Document Layout Analysis in Document images
+27,"['Tahira Shehzadi', 'Shalini Sarode', 'Muhammad Zeshan Afzal', 'Didier Stricker']",Towards End-to-End Semi-Supervised Table Detection with Semantic Aligned Matching Transformer
+30,"['Gang Yao', 'Liangrui Peng', 'Kemeng Zhao', 'Ning Ding', 'Tianqi Zhao', 'Yao Tao', 'Pei Tang']",Visual Prompt Learning for Chinese Handwriting Recognition
+31,"['Gang Yao', 'Liangrui Peng', 'Kemeng Zhao', 'Ning Ding', 'Chengyu Deng', 'Tianqi Zhao', 'Yao Tao']",Geometric-aware Control in Diffusion Model for Handwritten Chinese Font Generation
+32,"['M. Saquib Sarfraz', 'Rainer Stiefelhagen', 'Omar Moured', 'Jiaming Zhang']",AltChart: Enhancing VLM-based Chart Summarization Through Multi-Pretext Tasks
+34,"['José Andrés', 'Enrique Vidal', 'Alejandro H. Toselli']",Mining and Analyzing Statistical Information from Untranscribed Form Images
+36,"['Isabelle Guyon', 'Romain Egele', 'Marcus Liwicki', 'Birhanu Hailu Belay', 'Bezawork Tilahun', 'Tadele Mengiste', 'Tesfa Tegegne']",A Historical Handwritten Dataset for Ethiopic OCR with Baseline Models and Human-level Performance
+37,"['Robert Sablatnig', 'Rafael Sterzinger', 'Simon Brenner']",Drawing the Line: Deep Segmentation for Extracting Art from Ancient Etruscan Mirrors
+38,"['Michal Hradiš', 'Martin Kišš']",Self-supervised Pre-training of Text Recognizers
+42,"['Xin Xia', 'Siyuan Li', 'Guodong Ding']",LMTextSpotter: Towards Better Scene Text Spotting with Language Modeling in Transformer
+43,"['Chixiang Ma', 'Jiawei Wang', 'Shunchi Zhang', 'Kai Hu', 'Zhuoyao Zhong', 'Lei Sun', 'Qiang Huo']",Dynamic Relation Transformer for Contextual Text Block Detection
+44,"['Jiawei Wang', 'Qiang Huo', 'Kai Hu']",DLAFormer: An End-to-End Transformer For Document Layout Analysis
+45,"['Jiawei Wang', 'Weihong Lin', 'Kai Hu', 'Zhuoyao Zhong', 'Lei Sun', 'Qiang Huo']",UniVIE: A Unified Label Space Approach to Visual Information Extraction from Form-like Documents
+46,"['Lionel Kesztenbaum', 'Yoann Schneider', 'Bastien Abadie', 'Mélodie Boillet', 'Christopher Kermorvant', 'Solène Tarride']",The Socface Project: Large-Scale Collection Processing and Analysis of a Century of French Censuses
+47,"['Glen Pouliquen', 'Joseph Chazalon', 'Thierry Géraud', 'Ahmad Montaser Awal', 'Guillaume Chiron']",Weakly Supervised Training for Hologram Verification in Identity Documents
+49,"['Meixuan Qiao', 'Lujun Tian', 'Qiyu Hou', 'Jun Wang']",Synthesizing Realistic Data for Table Recognition
+50,"['Akarsh Upadhyay', 'Rudrabha Mukhopadhyay', 'Akkshita Trivedi', 'Santanu Chaudhury']",GDP: Generic Document Pretraining to Improve Document Understanding
+51,"['David Rizo', 'Jorge Calvo - Zaragoza', 'Adrián Roselló', 'Eliseo Fuentes - Martínez', 'María Alfaro - Contreras']",Source-Free Domain Adaptation for Optical Music Recognition
+54,"['Antonio Javier Gallego', 'Francisco J. Castellanos', 'Alejandro Galán - Cuenca', 'Juan P. Martinez - Esteso']",A region-based approach for layout analysis of music score images in scarce data scenarios
+55,"['Namwook Kim', 'Taehee Lee', 'Yun Young Choi', 'Taehoon Kim', 'Seongho Joe']",End to End Table Transformer
+58,"['Eric Ayllon', 'Francisco J. Castellanos', 'Jorge Calvo - Zaragoza']",Analysis of the Calibration of Handwriting Text Recognition Models
+59,"['Xudong Yan', 'Cheng', 'Sen Dai', 'He', 'Lin Liu', 'Hui Li', 'Xiao', 'Shuqi Mei', 'Fei Yin']",GraphMLLM: A Graph-based Multi-level Layout Language-independent Model for Document Understanding
+60,['Takaya Kawakatsu'],Multi-Cell Decoder and Mutual Learning for Table Structure and Character Recognition
+64,"['Kei Nakatsuru', 'Seiichi Uchida']",Learning to Kern: Set-wise Estimation of Optimal Letter Space
+69,"['Elisa H Barney Smith', 'Chang Liu', 'Simon Corbillé']",MOoSE: Multi-Orientation Sharing Experts for Open-set Scene Text Recognition
+71,"['Zhang Yilun', 'Meng Xianghui', 'Xie Youbai', 'Pan Qiangang', 'Hu Yahong']",Deep Learning-Driven Innovative Model for Generating Functional Knowledge Units
+74,"['Jeff Yang', 'Huynh Vu The', 'Van Pham Hoai']",One-shot Transformer-based Framework for Visually-Rich Document Understanding
+75,"['Wanqing Li', 'Jie Yang', 'Wangli Yang', 'Yi Guo']",ConClue: Conditional Clue Extraction for Multiple Choice Question Answering
+77,"['Mingxin Huang', 'Xudong Xie', 'Xiang Bai', 'Linger Deng', 'Lianwen Jin', 'Yuliang Liu']",Progressive Evolution from Single-Point to Polygon for Scene Text
+78,"['Brian Kenji Iwana', 'Yoh Yamashita']",Test Time Augmentation as a Defense Against Adversarial Attacks on Online Handwriting
+79,"['Daichi Haraguchi', 'Seiichi Uchida', 'Kazuki Kitajima']",Font Impression Estimation in the Wild
+80,"['KhayTze Peong', 'Seiichi Uchida', 'Daichi Haraguchi']",Typographic Text Generation with Off-the-Shelf Diffusion Model
+81,"['Zhen', 'Feng Chen', 'Xu', 'Lun Mo', 'Qi Liu', 'Cheng Yin', 'Song - Lu Chen']",Multi-task Learning for License Plate Recognition in Unconstrained Scenarios
+82,"['Yusheng Xie', 'Jishen Zhao', 'Luis Goncalves', 'Hui Shi', 'Sicun Gao']",WikiDT: Visual-based Table Recognition and Question Answering Dataset
+83,"['Daichi Haraguchi', 'Seiichi Uchida', 'Yugo Kubota']",Impression-CLIP: Contrastive Shape-Impression Embedding for Fonts
+84,"['Kangsoo Jung', 'Dimosthenis Karatzas', 'Mohamed Ali Souibgui', 'Ernest Valveny', 'Antti Honkela', 'Rubèn Tito', 'Khanh Nguyen', 'Lei Kang', 'Joonas Jälkö', 'Aurelie Joseph', 'Vincent Poulain D ’ Andecy', 'Marlon Tobaben', 'Mario Fritz', 'Raouf Kerkouche']",Privacy-Aware Document Visual Question Answering
+86,"['Roberto Paredes', 'Dan Anitei', 'Daniel Parres']",Handwritten Document Recognition Using Pre-trained Vision Transformers
+89,"['Mick', 'Antoine Doucet', '##ël Coustaty', 'Carlos - Emiliano González - Gallardo', 'Wenjun Sun', 'Hanh Thi Hong Tran']",Global-SEG: Text Semantic Segmentation Based on Global Semantic Pair Relations
+92,"['Wei Yang', 'Askar Hamdulla', 'Mayire Ibrayim', 'Yihong Luo']",More and Less: Enhancing Abundance and Refining Redundancy for Text-Prior-Guided Scene Text Image Super-Resolution
+94,"['Jordy Van Landeghem', 'Matthew Blaschko', 'Sien Moens', 'Souhail Bakkali', 'Omar Hamed']",Multimodal Adaptive Inference for Document Image Classification with Anytime Early Exiting
+95,"['Marco Spinaci', 'Marek Polewczyk']",ClusterTabNet: Supervised clustering method for table detection and table structure recognition
+97,"['Carlos - D. Martínez - Hinarejos', 'Moisés Pastor - Gadea', 'Verónica Romero', 'Aparisi', 'David Villanova', 'Christopher Kermorvant', 'Solène Tarride']",Reading Order Independent Metrics for Information Extraction in Handwritten Documents
+98,"['Anna Zhu', 'Huen Chen', 'Jiangyang He']",Controllable Text Layout Generation For Synthesizing Scene Text Image
+100,"['Carlos Boned', 'Sanket Biswas', 'Maxime Talarmain', 'Oriol Ramos Terrades']",Recurrent Few-Shot model for Document Verification
+102,"['José Miguel Benedí', 'Joan Andreu Sánchez', 'Dan Anitei', 'Daniel Parres']",Improving Efficiency and Performance through CTC-based Transformers for Mathematical Expression Recognition
+103,"['Joan Andreu Sánchez', 'Manuel Villarreal']",Enhancing Recognition of Historical Musical Pieces with Synthetic and Composed images
+104,"['Askar Hamdulla', 'Mayire Ibrayim', 'Chunhu Zhang', 'Qilin Deng', 'Hailong Luo']",Doc-DINO: A Transformer Model for Complex Logical Document Layout Analysis
+105,"['Dimosthenis Karatzas', 'Lluis Gomez', 'Mohamed Ali Souibgui', 'Ernest Valveny', 'Fei Yang', 'Lei Kang']",Machine Unlearning for Document Classification
+107,"['Lei Kang', 'Dimosthenis Karatzas', 'Ernest Valveny', 'Rubèn Tito']",Multi-Page Document Visual Question Answering using Self-Attention Scoring Mechanism
+108,"['Di Wu', 'Shuqi Dai', 'Yiran Zhao', 'Tong Li']",Integrating Dependency Type and Directionality into Adapted Graph Attention Networks to Enhance Relation Extraction
+109,"['Matthias Beckmann', 'Dominik Hauser', 'Günther Koliander', 'H. Siegfried Stiehl']",On Image Processing and Pattern Recognition for Thermograms of Watermarks in Manuscripts  A First Proof-of-Concept
+111,"['Mathieu Aubry', 'Scott Trigg', 'Matthieu Husson', 'Ségolène Albouy', 'Syrine Kalleli']",Historical Astronomical Diagrams Decomposition in Geometric Primitives
+112,"['Kurban Ubul', 'Alimjan Aysa', 'Tianqing Zhang', 'Li Zhao']",Improving Retrieval-Based Dialogue Systems: Fine-grained Post-training Prompt Adaptation and Pairwise Optimization Fine-tuning Strategy
+113,"['Antonio Ríos - Vila', 'Thierry Paquet', 'Jorge Calvo - Zaragoza']",Sheet Music Transformer: End-To-End Optical Music Recognition Beyond Monophonic Transcription
+116,"['Ferrer', 'Miguel A', 'Moises Diaz', 'Alexios Giazitzis', 'Elias N', 'Zois']",Janus-faced handwritten signature attack: a clash between a handwritten Signature Duplicator and a writer independent Metric Meta-Learning Offline Signature Verifier
+117,"['O. Cruz', 'F. Souzar', 'I. Oliveirar', 'Adriano L', 'Robert Sabourin', 'Rafael M', 'Talles B. Vianar', 'Victor L']",Robust Handwritten Signature Representation with Continual Learning of Synthetic Data over Predefined Real Feature Space
+119,"['Wenqi Zhao', 'Jianhua Zhu', 'Liangcai Gao']",ICAL: Implicit Character-Aided Learning for Enhanced Handwritten Mathematical Expression Recognition
+120,"['Sheraz Ahmed', 'Saifullah Saifullah', 'Andreas Dengel', 'Stefan Agne']",DocXplain: A Novel Model-Agnostic Explainability Method for Document Image Classication
+121,"['Andrei S', 'Dinu Urse', 'Dumitru', 'Manuel', 'Vlad', 'Vasile Păis', 'Răzvan', 'Andrei', 'erban', 'Dragos', 'Andreea Iuga', 'Petru Sorlescu', 'Cristian Matei', 'Gabriel Micliuş', 'Adrian', 'Marius Avram', 'George', 'Andrei Muntean', 'Clementin Cercel', 'Vlad Manolache']",HistNERo: Historical Named Entity Recognition for the Romanian Language
+122,"['Hongxi Wei', 'Jingtao Ma', 'Yiming Wang']",Recognition and Link Prediction of Onomatopoeia Texts with Arbitrary Shapes
+123,"['Cheng - Lin Liu', 'Umapada Pal', 'Arnab Halder', 'Shivakumara Palaiahnakote', 'Michael Blumenstein']",A New Unsupervised Approach for Text Localization in  Shaky and Non-Shaky Scene Video
+133,"['Cheng', 'Lin Liu', 'Yi Chen', 'Yangyang Liu', 'Fei Yin']",Context-Aware Confidence Estimation for Rejection in Handwritten Chinese Text Recognition
+134,"['Chao Liu', 'Jie Yang', 'Wanqing Li']",Extractive Question Answering with Contrastive Puzzles and Reweighted Clues
+136,"['Kurban', 'Jun Ding', 'Jiaoyan Wang', 'Alimjan Aysa', 'Xuebin Xu']",Oracle Bone Inscriptions Image Retrieval Based on Metric Learning
+140,"['Shumpei Takezaki', 'Daichi Haraguchi', 'Seiichi Uchida', 'Tetta Kondo']",Font Style Interpolation with Diffusion Models
+143,"['Zuo Li', 'Heng Zhang', 'Xiao - Hui Li', 'Tian', 'Fei Yin']",Adaptive Scaling and Refined Pyramid Feature Fusion Network for Scene Text Segmentation
+144,"['Benjamin Kiessling', 'Matthias Gille Levenson', 'Patricia O ’ Connor', 'Malamatenia Vlachou', 'Federico Boschetti', 'Ariane Pinche', 'Jean - Baptiste Camps', 'Mike Kestemont', 'Avery Manton', 'Efstathiou', 'Thibault Clérice', 'Michael Gervers', 'Agnès Boutreux', 'Wouter Haverals', 'Olivier Brisville - Fertin', 'Simon Gabay', 'Caroline Vandyck', 'Alix Chagué', 'Franz Fischer']",CATMuS Medieval: A multilingual large-scale cross-century dataset in Latin script for handwritten text recognition and beyond
+145,['Xin Yang'],Document Specular Highlight Removal with Coarse-to-fine Strategy
+146,"['Cheng', 'Lin Liu', 'Heng Zhang', 'Rong Ling', 'Lu', 'Fei Yin']",Deep Metric Learning with Cross-Writer Attention for Offline Signature Verification
+148,"['Jiefeng Ma', 'Zhongyuan Han', 'Mobai Xue', 'Zhenrong Zhang', 'Pengfei Hu', 'Jun Du']",Radical Similarity Based Model Optimization and Post-correction for Chinese Character Recognition
+153,"['Cheng - Lin Liu', 'Yi - Ming Chen', 'Chun - Bo Xu']",EntityLayout: Entity-level Pre-training Language Model for Semantic Entity Recognition and Relation Extraction
+155,"['Théo LARCHER', 'Thomas', 'Lucas PR', '##T', 'Pierrick TRANOUEZ', 'Thierry PAQ', 'Sandra BREE']",End-to-end information extraction in handwritten documents: Understanding Paris marriage records from  to
+156,"['Weihong Ma', 'Yang Xue', 'Yuxin Kong', 'Lianwen Jin']",GARDEN: Generative Prior Guided Network for Scene Text Image Super-Resolution
+158,"['Marie B', 'Manh Tu']",ViT-ED: Transformer network for image similarity measurement
+160,"['Haoyu Dong', 'Haochen Wang', 'Liangcai Gao', 'Kai Hu']",DocTabQA: Answering Questions from Long Documents Using Tables
+162,"['Nam Tuan Ly', 'Toshihiko Horie', 'Nghia Thanh Truong', 'Masaki Nakagawa', 'Hung Tuan Nguyen']",Content-based Similarity for Automatic Scoring of  Handwritten Descriptive Answers
+165,"['Badri Vishal Kasuba', 'Venkatapathy Subramanian', 'Parag Chaudhuri', 'Ganesh Ramakrishnan', 'Dhruv Kudale']",SPRINT: Script-agnostic Structure Recognition in Tables
+166,"['Unter', 'Stephan M']",Text Line Segmentation on Ancient Egyptian Papyri: Layout Analysis with Object Detection Networks and Connected Components
+167,"['Hongxi Wei', 'Hao Yu', 'Yiming Wang']",Deepfake In-air Signature Verification via Two-channel Model
+168,"['Petr Kulagin', 'Dmitry Polevoy', 'Dmitry Nikolaev', 'Marina Chukalina', 'Vladimir V. Arlazarov']",Fully automatic virtual unwrapping method for documents imaged by X-ray tomography
+169,"['Yejing Xie', 'Harold Mouchère']",Stroke-Level Graph Labeling with Edge-weighted Graph Attention Network for Handwritten Mathematical Expression Recognition
+170,"['Axel Carlier', 'Thomas Forgione', 'Travis Seng', 'Vincent Charvillat', 'Wei Tsang Ooi']",SlideCraft: Synthetic Slides Generation for Robust Slide Analysis
+172,"['Tristan Repolusk', 'Eduardo Veas']",The KuiSCIMA Dataset for Optical Music Recognition of Ancient Chinese Suzipu Notation
+173,"['Mathieu Aubry', 'Elliot Vincent', 'Fabienne Vial - Bonacci', 'Zeynep Sonat Baltaci', 'Remi Emonet', 'Christelle Bahier - Porte', 'Sayan Kumar Chaki', 'Thierry Fournel']",Historical Printed Ornaments: Dataset and Tasks
+176,"['Yongge Liu', 'Xinyu Wang', 'Shengwei Han', 'Xiang Bai', 'Pengjie Wang', 'Kaile Zhang', 'Lianwen Jin', 'Yuliang Liu']",Puzzle Pieces Picker: Deciphering Ancient Chinese Characters with Radical Reconstruction
+177,"['Fadila Wendigoundi Douamba', 'Ling Fu', 'Jianjun Song', 'Xiang Bai', 'Yuliang Liu']",The First Swahili Language Scene Text Detection and Recognition Dataset
+178,"['Zhi Pan', 'Alimjan Aysa', 'Yaowei Yang', 'Kurban Ubul']",A New Bottom-up Path Augmentation Attention Network for Script Identification in Scene Images
+180,"['Kléberson F. Alves', 'V. Rocha', 'Alejandro H. Toselli', 'Macileide F. Oliveira', 'Sávio S. Araújo', 'Hugo J', 'F. Hazin', 'Byron L', 'S. Neto', 'Arthur F', 'Pedro H', 'S. Souza', 'Wiliane M', 'Samara V', 'S. Lins', 'D. Bezerra', 'A']",BRESSAY: A Brazilian Portuguese Dataset for Offline Handwritten Text Recognition
+182,"['Emanuele Nardone', 'Cesare Davide Pace', 'Tiziana D ’ Alessandro', 'Claudio De Stefano', 'Francesco Fontanella']",From Handwriting Analysis to Alzheimers Disease Prediction: An Experimental Comparison of Classifier Combination Methods
+185,"['Aurélie Joseph', 'Mick', 'Vincent Poulain d ’ Andecy', '##ël Coustaty', 'Jean - Marc Ogier', 'Ibrahim Souleiman Mahamoud']",CHIC: Corporate Document for Visual Question Answering
+187,"['Alejandro H. Toselli', 'Enrique Vidal']",Zipf Curves and Basic Text Analytics from Untranscribed Manuscript Images
+190,"['Biao Yang', 'Wenwen Yu', 'Xiang Bai', 'Chenyang Gao', 'Yuliang Liu']",Knowledge Mining of Scene Text for Referring Expression Comprehension
+191,['Zhi Pan'],Script Identification in the Wild with FFT-Multi-Grained Mix Attention Transformer
+199,"['Hongxi Wei', 'Yu Li', 'Shiwen Sun']",LABT: A Sequence-to-Sequence Model for Mongolian Handwritten Text Recognition with Local Aggregation BiLSTM and Transformer
+201,"['Roi Pony', 'Ahmed Nassar', 'Foad Abo Dahood', 'Ophir Azulai', 'Inbar Shapira', 'Idan Friedman', 'Christoph Auer', 'Maksym Lysak', 'Yevgeny Yaroker', 'Nadav Rubinstein', 'Peter Staar', 'Udi Barzelay', 'Oshri Naparstek', 'Nikolaos Livathinos', 'Orit Prince', 'Elad Amrani', 'Yevgeny Burshtein']",KVPk : A Comprehensive Dataset for Key-Value Pair Extraction in Business Documents
+202,"['Muhammad Shahzad Younis', 'Maham Jahangir', 'Azka Basit', 'Faisal Shafait']",PCA-Based Adversarial Attacks on Signature Verification Systems
+204,"['Muhammad Zeshan Afzal', 'Muhammad Saif Ullah Khan', 'Sankalp Sinha', 'Didier Stricker', 'Talha Uddin Sheikh']",CICA: Content-Injected Contrastive Alignment for Zero-Shot Document Image Classification
+205,"['Darko Obradovic', 'Marcel Lamott', 'Faisal Shafait', 'Yves - Noel Weweler', 'Dirk Krechel', 'Adrian Ulges']",LAPDoc: Layout-Aware Prompting for Documents
+210,"['Seif Edinne Laatiri', 'Wiam Adnan', 'Laurent Lam', 'Fabien Caspani', 'Joel Tang', 'Yassine Bel Khayat Zouggari']",A LayoutLMv-Based Model for Enhanced Relation Extraction in Visually-Rich Documents
+211,"['Dimosthenis Karatzas', 'Amelia Gómez Grabowska', 'Jerod Weinman']",Counting the Corner Cases: Revisiting Robust Reading Challenge Data Sets Evaluation Protocols and Metrics
+213,"['Andreas Dengel', 'Sheraz Ahmed', 'Syed Jawwad Haider Hamdani', 'Saifullah Saifullah', 'Stefan Agne']",Latent Diffusion for Guided Document Table Generation
+215,"['Hamza Gbada', 'Mohamed Ali Mahjoub', 'Karim Kalti']",Information Extraction from Visually Rich Documents using Directed Weighted Graph Neural Network
+216,"['Qiufeng Wang', 'Weiguang Zhang', 'Xiaomeng Gu', 'Fengjun Guo', 'Kaizhu Huang']",Coarse-to-Fine Document Image Registration for Dewarping
+218,"['Alexander Gayer', 'Vladimir V. Arlazarov', 'Daria Ershova', 'Alexander Sheshkus']",An Ultra-Lightweight Approach for Machine Readable Zone Detection via Semantic Segmentation and Fast Hough Transform
+221,"['Tim Raven', 'Arthur Matei', 'Gernot A', 'Fink']",Self-Supervised Vision Transformers for Writer Retrieval
+229,"['Qiu - Feng Wang', 'Yan - Ming Zhang', 'Yijie Hu', 'Kaizhu Huang']",Class Incremental Learning for Character String Recognition
+232,"['Boraq Madi', 'Reem Alaasam', 'Jihad El - Sana']",Text Enhancement for Historical Handwritten Documents
+237,"['Xinhong Chen', 'Dezhi Peng', 'Chongyu Liu', 'Chenfan Qu', 'Bangdong Chen', 'Lianwen Jin']",DTSM: Toward Dense Table Structure Recognition with Text Query Encoder and Adjacent Feature Aggregator
+238,"['Jianing Zhang', 'Tong Zhang', 'Rong Yan']",Synergistic Diverse Perspective for Topic Evolution Analysis on Weibo
+239,"['David Doermann', 'Bikhyat Adhikari', 'Mahesh Bhosale', 'Jay Lal', 'Pengyu Yan']",ChartReformer: Natural Language-Driven Chart Image Editing
+243,"['Ajoy Mondal', 'C V Jawahar', 'Krishna Tulsyan']",Indic Scene Text on the Roadside
+244,"['Tony Martinez', 'Taylor Archibald']",DELINEK: A Synthetic Data Pipeline for the Semantic Segmentation of Historical Documents
+245,"['Deepak Prakash', 'Shubham Sharma', 'Raghvendra Kumar', 'Sriparna Saha']",IndicBART alongside Visual Element: Multimodal Summarization in Diverse Indian Languages
+249,"['Shuo Zhang', 'Zhang Li', 'Biao Yang', 'Xiang Bai', 'Zhiyin Ma', 'Yuliang Liu']",Exploring the Capabilities of Large Multimodal Models on Dense Text
+255,"['Shumpei Takezaki', 'Daichi Haraguchi', 'Seiichi Uchida', 'Sho Shimotsumagari']",Cross-Domain Image Conversion by CycleDM
+257,"['Mohammad Reza Soheili', 'Mohammad Minouei', 'Didier Stricker']",Embedding Layout in Text for Document Understanding Using Large Language Models
+260,"['Ahana Kundu', 'Ujjwal Bhattacharya']",YOLO Assisted A Algorithm for Robust Line Segmentation of Degraded Document Images
+266,"['Dimosthenis Karatzas', 'Emanuele Vivoli', 'Ernest Valveny Llobet', 'Joan Lafuente Baeza']",Multimodal Transformer for Comics Text-Cloze
+270,"['Jacob Murel', 'David Smith']",Self-training and Active Learning with Pseudo-Relevance Feedback for Handwriting Detection in Historical Print
+271,Ting-Wei LIAO and Hsiang-An WANG,Recognition of Components in Taoist Charm Images
+273,"['Adarsh Tiwari', 'Sanket Biswas', 'Josep Lladós']",SketchGPT: Autoregressive Modeling for Sketch Generation and Recognition
+274,"['Qidi Luo', 'Hiba Maryam', 'Shafayet', 'Ling Fu', 'Xiang Bai', 'Jiajun Song', 'Tajrian', 'Yuliang Liu']",Dataset and Benchmark for Urdu Natural Scenes Text Detection Recognition and Visual Question Answering
+275,"['Jan Hajič', 'Pavel Pecina', 'Jiří Mayer', 'Milan Straka']",Practical End-to-End Optical Music Recognition for Pianoform Music
+284,"['Christopher Kermorvant', 'Manon Blanco', 'Eva Bardou', 'Bastien Abadie']",Callico: a Versatile Open-Source Document Image Annotation Platform
+285,"['Nauman Riaz', 'Andreas Dengel', 'Sheraz Ahmed', 'Saifullah Saifullah', 'Stefan Agne']",StylusAI: Stylistic Adaptation for Robust German Handwritten Text Generation
+289,"['Sanket Biswas', 'Carlos Boned', 'Nil Biescas', 'Josep Lladós']",GeoContrastNet: Contrastive Key-Value Edge Learning for Language-Agnostic Document Understanding
+291,"['George Retsinas', 'Giorgos Sfikas', 'Konstantina Nikolaidou']",Enhancing CRNN HTR Architectures with Transformer Blocks
+296,"['Umapada Pal', 'Sanket Biswas', 'Ayan Banerjee', 'Josep Lladós']",GraphKD: Exploring Knowledge Distillation Towards Document Object Detection with Structured Graph Creation
+316,"['Dimosthenis Karatzas', 'Khanh Nguyen']",Federated Document Visual Question Answering: A Pilot Study
+318,"['Anna Scius - Bertrand', 'Daniel Ribeiro Cabral', 'Atefeh Fakhari', 'Lars Vögtlin', 'Andreas Fischer']",Are Layout Analysis and OCR Still Useful for Document Information Extraction using Foundation Models
+323,"['D', 'Max G ’ Sell', 'Samuel V. Lemley', 'Christopher N', 'Kartik Goyal', 'Warren', 'J. Schuldt', 'Nikolai Vogler', 'Taylor Berg - Kirkpatrick']",Clustering Running Titles to Understand the Printing of Early Modern Books
+C01,"['Zhifei Zhang', 'Xudong Xie', 'Linger Deng', 'Zhaowen Wang', 'Yuliang Liu']",ICDAR  Competition on Artistic Text Recognition
+C02,"['Emanuela Colombi', 'Silvia Zottin', 'Claudio Piciarelli', 'Gian Luca Foresti', 'Axel De Nardin']",ICDAR  Competition on Few-Shot and Many-Shot Layout Segmentation of Ancient Manuscripts SAM
+C03,"['Beáta Megyesi', 'Nils Kopal', 'Michelle Waldispühl', 'George Lasry', 'Pau Torras Carles Badal', 'Jialuo Chen', 'Alicia Fornés']",ICDAR  Competition on Handwriting Recognition of Historical Ciphers
+C04,"['Kléberson F. Alves', 'V. Rocha', 'Alejandro H. Toselli', 'Macileide F. Oliveira', 'Sávio S. Araújo', 'Hugo J', 'F. Hazin', 'Byron L', 'S. Neto', 'Arthur F', 'Pedro H', 'S. Souza', 'Wiliane M', 'Samara V', 'S. Lins', 'D. Bezerra', 'A']",ICDAR  Competition on Handwritten Text Recognition in Brazilian Essays  BRESSAY
+C05,"['Julien Perret', 'Yijun Lin', 'Yao - Yi Chiang', 'Zekun Li', 'Joseph Chazalon', 'Nathalie Abadie', 'Solenn Tual', 'Jerod Weinman', 'Bertrand Duménieu']",ICDAR  Competition on Historical Map Text Detection Recognition and Linking
+C06,"['Janne van der Loop', 'Fei Wu', 'Vincent Christlein', 'Florian Kordon', 'Dalia Rodríguez - Salas', 'Nikolaus Weichselbaumer', 'Martin Mayr', 'Mathias Seuret']",ICDAR  Competition on Multi Font Group Recognition and OCR
+C07,"['Jiefeng Ma', 'Baocai Yin', 'Hao Wu', 'Jinshui Hu', 'Hanbo Cheng', 'Mingjun Chen', 'Changpeng Pi', 'Zhenrong Zhang', 'Cong Liu', 'Pengfei Hu', 'Chenyu Liu', 'Bing Yin', 'Jun Du', 'Qikai Chang']",ICDAR  Competition on Recognition of Chemical Structures
+C08,"['Ajoy Mondal', 'Soumya Shamarao Jahagirdar', 'Yuheng ( Carl ) Ren', 'C', 'V. Jawahar', 'Omkar M Parkhi']",ICDAR  Competition on Reading Documents Through Aria Glasses
+C09,"['Ajoy Mondal', 'C', 'V', 'R. Manmatha', 'Jawahar', 'Vijay Mahadevan']",ICDAR  Competition on Recognition and VQA on Handwritten Documents
