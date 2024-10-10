@@ -7,7 +7,6 @@ This project focuses on extracting information and classifying documents using m
 - [Project Overview](#project-overview)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Methodology](#methodology)
 - [Results](#results)
@@ -57,21 +56,6 @@ source env/bin/activate  # On Windows use `env\Scripts\activate`
 pip install -r requirements.txt
 ```
 
-## Project Structure
-The project is organized into the following files and folders:
-
-```
-/document-classification
-│
-├── extract_information_from_pdf.ipynb     # Notebook for information extraction
-├── docs_classification.ipynb              # Notebook for BERT-based classification
-├── gnn_classification.ipynb               # Notebook for graph-based classification
-├── categorized_documents.json             # Output JSON with classification results
-├── requirements.txt                       # List of all project dependencies
-├── README.md                              # Project documentation
-└── data/
-    └── pdf_files/                         # Folder containing the input PDF files
-```
 
 ## Usage
 
