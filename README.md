@@ -1,64 +1,107 @@
 
-# Document Classification and PDF Information Extraction
+# Document Classification and Information Extraction
 
-This project contains code for document classification using BERT-based embeddings and information extraction from PDF files. It includes three primary notebooks:
-- `docs_classification.ipynb`: For clustering documents and extracting keywords using fine-tuned BERT embeddings.
-- `extract_information_from_pdf.ipynb`: For extracting titles, abstracts, keywords, and authors from PDF files.
-- `fine_tune_bert_model.ipynb`: For fine-tuning a BERT model on a specific dataset.
+This project focuses on extracting information and classifying documents using machine learning techniques, specifically through a combination of BERT-based models and graph-based methods. The task involves processing PDF files to extract titles and authors, and classifying the documents into predefined categories.
 
-## Prerequisites
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Project Structure](#project-structure)
+- [Usage](#usage)
+- [Methodology](#methodology)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
 
-Ensure you have Python 3.8+ installed. You'll also need to install the required libraries, which are listed in `requirements.txt`.
+## Project Overview
+The objective of this project is to develop a machine learning pipeline that:
+1. Extracts titles and authors from PDF documents.
+2. Classifies each document into one of the predefined categories using two approaches:
+   - BERT-based approach with LDA (Latent Dirichlet Allocation)
+   - Graph-based approach using Node2Vec and BM25
+
+The predefined categories include:
+- Tables
+- Classification
+- Key Information Extraction
+- Optical Character Recognition
+- Datasets
+- Document Layout Understanding
+- Others
+
+## Requirements
+This project uses Python and several external libraries. Below is a list of the main dependencies:
+- `PyTorch` and `Transformers` for BERT-based operations.
+- `PyMuPDF` for extracting text from PDF files.
+- `Node2Vec` and `NetworkX` for graph-based embeddings.
+- `scikit-learn` for clustering and evaluation.
+- `matplotlib` and `seaborn` for visualization.
+- `numpy` and `pandas` for data manipulation.
 
 ## Installation
+To get started with this project, you'll need to install the required libraries. You can do this using the following commands:
 
-1. **Clone the repository** (if applicable) and navigate to the project directory.
+```bash
+# Clone the repository
+git clone https://github.com/your-repository/document-classification
 
-2. **Install the required libraries**:
-   ```bash
-   pip install -r requirements.txt
-   ```
+# Change directory to the project folder
+cd document-classification
 
-## Notebooks Overview
+# Create a virtual environment (optional but recommended)
+python3 -m venv env
+source env/bin/activate  # On Windows use `env\Scripts\activate`
 
-### 1. Document Classification (`docs_classification.ipynb`)
+# Install the required dependencies
+pip install -r requirements.txt
+```
 
-This notebook performs the following tasks:
-- Loads and preprocesses text data.
-- Generates document embeddings using a fine-tuned BERT model.
-- Clusters documents using K-Means and visualizes the results using t-SNE.
-- Extracts keywords from clusters using Latent Dirichlet Allocation (LDA).
-- Matches each cluster to predefined categories.
-- Builds the final JSON output.
+## Project Structure
+The project is organized into the following files and folders:
 
-### 2. PDF Information Extraction (`extract_information_from_pdf.ipynb`)
+```
+/document-classification
+│
+├── extract_information_from_pdf.ipynb     # Notebook for information extraction
+├── docs_classification.ipynb              # Notebook for BERT-based classification
+├── gnn_classification.ipynb               # Notebook for graph-based classification
+├── categorized_documents.json             # Output JSON with classification results
+├── requirements.txt                       # List of all project dependencies
+├── README.md                              # Project documentation
+└── data/
+    └── pdf_files/                         # Folder containing the input PDF files
+```
 
-This notebook focuses on:
-- Extracting titles, abstracts, keywords, and authors from PDF files.
-- Cleaning and normalizing text, including handling diacritical marks.
-- Saving extracted information into CSV and JSON formats.
+## Usage
 
-### 3. Fine-tuning BERT (`fine_tune_bert_model.ipynb`)
+### Step 1: Information Extraction
+Run the `extract_information_from_pdf.ipynb` notebook to extract titles and authors from the PDF files. This will use Named Entity Recognition (NER) to identify and extract relevant information.
 
-This notebook covers:
-- Loading datasets suitable for BERT training.
-- Fine-tuning a BERT model with masked language modeling.
-- Evaluating the fine-tuned model's performance.
+### Step 2: Document Classification using BERT-LDA
+Open and execute the `docs_classification.ipynb` notebook. This notebook will:
+- Generate embeddings using a BERT model.
+- Use LDA for topic detection to refine the categorization.
+- Classify documents into the predefined categories.
 
-## Running the Notebooks
+### Step 3: Document Classification using Graph-Based Approach
+Run the `gnn_classification.ipynb` notebook. This notebook performs the following tasks:
+- Creates a graph representation of the documents using words and their BM25 importance.
+- Uses Node2Vec to generate embeddings for graph nodes.
+- Clusters documents and matches them to the most relevant categories based on similarity.
 
-1. Start a Jupyter Notebook server:
-   ```bash
-   jupyter notebook
-   ```
+### Step 4: Output
+The final categorized results are saved in the `categorized_documents.json` file. This file contains the extracted titles, authors, and the classification results.
 
-2. Open the desired notebook (e.g., `docs_classification.ipynb`) and follow the instructions within the cells.
+## Methodology
+- **BERT-based Model with LDA**: Combines semantic text embeddings with topic modeling to enhance document classification accuracy.
+- **Graph-based Model with Node2Vec and BM25**: Builds a graph of document relationships using word importance to generate node embeddings for clustering.
 
-## Additional Notes
+## Results
+The combination of these two approaches offers a comprehensive analysis of document content, with each method complementing the other for improved classification accuracy.
 
-- Ensure you have the required PDF files for the extraction tasks in the appropriate directory.
-- You may need GPU support for faster BERT model training; otherwise, the process might be slow on a CPU.
+## Contributing
+Contributions to this project are welcome! If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request.
 
 ## License
-
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the LICENSE file for details.
